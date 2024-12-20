@@ -1,0 +1,17 @@
+	 Welcome to Walmart
+ Bill Number:7864
+ Customer Name:Taufeeq
+ Phone Number:9975364645
+ Email:taufeeq@gmail.com
+ =========================================
+Product			Qty 	 Price
+ =========================================
+ Mufti			1 	 3200
+ Iphone-15			1 	 90000
+ Gucci			1 	 3500
+
+ =========================================
+ Sub Amount: 			Rs.96700.00
+ Tax: 			Rs.932.00
+ Total: 			Rs.97632.00
+ =========================================
